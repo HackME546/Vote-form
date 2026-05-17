@@ -1,15 +1,15 @@
 :root {
     color-scheme: light;
     font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    --bg: #0f886c;
-    --surface: rgba(56, 133, 139, 0.92);
+    --bg: #032b22;
+    --surface: rgba(206, 222, 223, 0.92);
     --surface-strong: rgba(24, 34, 80, 0.95);
     --text: #0a0b10;
     --muted: #a9b1d3;
     --border: rgba(67, 44, 44, 0.1);
     --accent: #6d8bff;
-    --accent-strong: #10658d;
-    --shadow: 0 28px 80px rgba(10, 22, 63, 0.35);
+    --accent-strong: #f1f7fa;
+    --shadow: 0 28px 80px rgba(97, 129, 234, 0.35);
 }
 
 * {
