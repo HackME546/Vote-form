@@ -1,14 +1,14 @@
 :root {
-    color-scheme: dark;
+    color-scheme: light;
     font-family: "Inter", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     --bg: #0f886c;
     --surface: rgba(56, 133, 139, 0.92);
     --surface-strong: rgba(24, 34, 80, 0.95);
-    --text: #eef2ff;
+    --text: #0a0b10;
     --muted: #a9b1d3;
-    --border: rgba(255, 255, 255, 0.1);
+    --border: rgba(67, 44, 44, 0.1);
     --accent: #6d8bff;
-    --accent-strong: #dcdce2;
+    --accent-strong: #10658d;
     --shadow: 0 28px 80px rgba(10, 22, 63, 0.35);
 }
 
